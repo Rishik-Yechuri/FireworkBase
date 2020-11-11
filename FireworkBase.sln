@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireworkBase", "FireworkBase\FireworkBase\FireworkBase.csproj", "{8E76A188-0206-4ADE-9E72-578C1D6338E0}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FireworkBaseContent", "FireworkBase\FireworkBaseContent\FireworkBaseContent.contentproj", "{60E52F3A-CF07-4FEF-A7EA-289699B47B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E76A188-0206-4ADE-9E72-578C1D6338E0}.Debug|x86.ActiveCfg = Debug|x86
+		{8E76A188-0206-4ADE-9E72-578C1D6338E0}.Debug|x86.Build.0 = Debug|x86
+		{8E76A188-0206-4ADE-9E72-578C1D6338E0}.Release|x86.ActiveCfg = Release|x86
+		{8E76A188-0206-4ADE-9E72-578C1D6338E0}.Release|x86.Build.0 = Release|x86
+		{60E52F3A-CF07-4FEF-A7EA-289699B47B45}.Debug|x86.ActiveCfg = Debug|x86
+		{60E52F3A-CF07-4FEF-A7EA-289699B47B45}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
